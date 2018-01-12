@@ -1,21 +1,24 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
+  "name": "electron-terminal",
+  "version": "0.1.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "./node_modules/.bin/electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/jcubic/electron-terminal",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
+    "terminal",
+    "jquery",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": {
+    "name": "Jakub Jankiewicz",
+    "email": "jcubic@onet.pl",
+    "url": "http://jcubic.pl/me"
+  },
+  "license": "MIT",
   "devDependencies": {
     "electron": "~1.7.8"
   }
