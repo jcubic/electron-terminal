@@ -52,7 +52,8 @@ function createWindow() {
         height: 600,
         backgroundColor: '#000000',
         minWidth: 250,
-        minHeight: 120
+        minHeight: 120,
+        icon: 'icon.png'
     });
     var webContents = mainWindow.webContents || mainWindow.getWebContents();
 

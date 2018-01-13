@@ -14,8 +14,7 @@ var $ = require('jquery');
 require('jquery.terminal')($);
 
 $('body').terminal(function(command) {
-    var cmd = $.terminal.parse_command(command);
-    if (cmd.name == 'exit') {
+    if (command.match(/^\s*exit\*$/)) {
         ipcRenderer.send('terminal', {
             method: 'exit',
             args: []
