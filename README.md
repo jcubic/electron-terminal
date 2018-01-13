@@ -42,6 +42,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 - [Api Reference](http://terminal.jcubic.pl/api_reference.php) - all documentation for jQuery Terminal
+
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE) based on [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
