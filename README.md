@@ -1,5 +1,7 @@
 # electron-terminal
 
+![electron terminal preview](https://raw.githubusercontent.com/jcubic/electron-terminal/master/preview.png)
+
 **Clone and run for a quick way to see jQuery Terminal with Electron in action.**
 
 This is a minimal jQuery Terminal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
