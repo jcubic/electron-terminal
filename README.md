@@ -1,10 +1,12 @@
-# electron-quick-start
+# electron-terminal
 
-**Clone and run for a quick way to see Electron in action.**
+**Clone and run for a quick way to see jQuery Terminal with Electron in action.**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
+This is a minimal jQuery Terminal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
 
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+
+**For more info about options and methods of jQuery Terminal check [Api Reference](http://terminal.jcubic.pl/api_reference.php).**
 
 A basic Electron application needs just these files:
 
@@ -20,9 +22,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/jcubic/electron-terminal
 # Go into the repository
-cd electron-quick-start
+cd electron-terminal
 # Install dependencies
 npm install
 # Run the app
@@ -42,4 +44,4 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+[MIT](LICENSE.md)
