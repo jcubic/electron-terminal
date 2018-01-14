@@ -44,3 +44,6 @@ $('body').terminal(function(command) {
     name: 'electron',
     prompt: '[[;#D72424;]js]> '
 });
+
+
+module.exports = $;
