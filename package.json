@@ -21,7 +21,7 @@
   "license": "MIT",
   "devDependencies": {
     "devtron": "^1.4.0",
-    "electron": "~1.7.8",
+    "electron": "^1.7.15",
     "electron-reload": "^1.2.2",
     "jquery.terminal": "^1.11.3"
   }
