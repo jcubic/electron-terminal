@@ -43,7 +43,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 - [Api Reference](http://terminal.jcubic.pl/api_reference.php) - all documentation for jQuery Terminal
 - [Wiki](https://github.com/jcubic/jquery.terminal/wiki) - jQuery Terminal Wiki
-- [Examples](https://terminal.jcubic.pl/examples.php) - varous example usig jQuery Terminal
+- [Examples](https://terminal.jcubic.pl/examples.php) - various example using jQuery Terminal
 
 ## License
 
