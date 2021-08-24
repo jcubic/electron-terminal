@@ -4,7 +4,7 @@
 
 **Clone and run for a quick way to see jQuery Terminal with Electron in action.**
 
-This is a minimal jQuery Terminal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
+This is a minimal [jQuery Terminal Electron application](https://github.com/jcubic/electron-terminal) based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
 
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples and [Terminal Examples](http://terminal.jcubic.pl/examples.php) to help you get started.**
 
@@ -42,6 +42,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 - [Api Reference](http://terminal.jcubic.pl/api_reference.php) - all documentation for jQuery Terminal
+- [Wiki](https://github.com/jcubic/jquery.terminal/wiki) - jQuery Terminal Wiki
+- [Examples](https://terminal.jcubic.pl/examples.php) - varous example usig jQuery Terminal
 
 ## License
 
