@@ -53,7 +53,12 @@ function createWindow() {
         backgroundColor: '#000000',
         minWidth: 250,
         minHeight: 120,
-        icon: 'icon.png'
+        icon: 'icon.png',
+        webPreferences: {
+            nodeIntegration: true,
+            enableRemoteModule: true,
+            contextIsolation: false,
+        }
     });
     var webContents = mainWindow.webContents || mainWindow.getWebContents();
 

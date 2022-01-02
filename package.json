@@ -20,9 +20,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "devtron": "^1.4.0",
-    "electron": "^1.7.15",
+    "electron": "^12.2.3",
     "electron-reload": "^1.2.2",
     "jquery.terminal": "^1.11.3"
+  },
+  "dependencies": {
+    "devtron": "^1.4.0"
   }
 }

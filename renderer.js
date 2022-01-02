@@ -33,11 +33,14 @@ $('body').terminal(function(command) {
     exit: false,
     greetings: function(set) {
         set(function() {
+            var version = 'v. ' + process.versions.electron;
+            var re = new RegExp('.{' + version.length + '}$');
             var ascii_art = [
                 '   ______        __',
                 '  / __/ /__ ____/ /________  ___',
                 ' / _// / -_) __/ __/ __/ _ \\/ _ \\',
-                '/___/_/\\__/\\__/\\__/_/  \\___/_//_/'
+                '/___/_/\\__/\\__/\\__/_/  \\___/_//_/',
+                '                                 '.replace(re, '') + version
             ].join('\n');
             var cols = this.cols();
             var signature = [];
